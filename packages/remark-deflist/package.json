@@ -1,6 +1,6 @@
 {
   "name": "@jnv/remark-deflist",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "license": "MIT",
   "description": "Remark plugin for pandoc-style definition lists.",
   "author": "Alex Shaw <alex.shaw.as@gmail.com>",
