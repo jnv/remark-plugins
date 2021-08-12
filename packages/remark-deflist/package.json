@@ -1,5 +1,5 @@
 {
-  "name": "remark-deflist",
+  "name": "@jnv/remark-deflist",
   "version": "0.3.0",
   "license": "MIT",
   "description": "Remark plugin for pandoc-style definition lists.",
